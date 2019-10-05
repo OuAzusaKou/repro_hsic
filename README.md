@@ -6,7 +6,7 @@
  - numpy-1.16.4
  - scipy-1.3.0
  - scikit-learn 0.21.3
-# Note
+### Note
  Still under experiment 
-# Result img
+### Result img
 ![Image text](https://github.com/OuAzusaKou/repro_hsic/blob/master/checkpoint_cnn_multilayer2.jpg)
